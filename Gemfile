@@ -4,5 +4,8 @@ source "https://rubygems.org"
 gem "sinatra-activerecord"
 gem "sqlite3"
 gem "pry"
+gem "rake"
 gem "require_all"
 gem "faker"
+
+gem "tty-prompt", "~> 0.19.0"
